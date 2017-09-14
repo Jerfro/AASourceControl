@@ -1,6 +1,6 @@
 workflow Start-SourceControl
 {
-    #Version 1.0
+    #Version 2.0
     #Første souurce control runbook lissom
-    Write-OutPut "Azure Automation rocks"
+    Write-OutPut "Azure Automation rocks  GITHUB"
 }
